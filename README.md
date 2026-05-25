@@ -9,7 +9,7 @@ Designed with a clean UI, smooth animations, responsive layouts, and recruiter-f
 https://nikitha-sri.github.io/personal-portfolio-website/
 
 
- Screenshots
+ Screenshot
 
 
 <img width="1767" height="877" alt="image" src="https://github.com/user-attachments/assets/5226dd70-52d9-4864-b08f-126050a3c644" />

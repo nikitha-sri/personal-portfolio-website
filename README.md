@@ -145,12 +145,10 @@ Certifications
 
 Nikitha Sri Pasupuleti
 
-🔗 LinkedIn:
+LinkedIn:
 https://linkedin.com/in/nikitha-sri-pasupuleti
 
-🔗 GitHub:
-https://github.com/nikitha-sri
 
-# 📜 License
+License
 
 This project is open source and available for learning and personal portfolio use.
